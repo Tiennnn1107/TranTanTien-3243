@@ -6,6 +6,7 @@ def sub(a, b):
 
 
 if __name__ == "__main__":
+    print("sum function")
     a = float(input("Nhập a: "))
     b = float(input("Nhập b: "))
 
